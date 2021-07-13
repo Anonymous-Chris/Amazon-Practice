@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Amazon-App/static/css/main.a617e044.chunk.css",
-    "main.js": "/Amazon-App/static/js/main.614f4135.chunk.js",
-    "main.js.map": "/Amazon-App/static/js/main.614f4135.chunk.js.map",
-    "runtime-main.js": "/Amazon-App/static/js/runtime-main.f79fefe4.js",
-    "runtime-main.js.map": "/Amazon-App/static/js/runtime-main.f79fefe4.js.map",
-    "static/js/2.58aad851.chunk.js": "/Amazon-App/static/js/2.58aad851.chunk.js",
-    "static/js/2.58aad851.chunk.js.map": "/Amazon-App/static/js/2.58aad851.chunk.js.map",
-    "static/js/3.b9825dcd.chunk.js": "/Amazon-App/static/js/3.b9825dcd.chunk.js",
-    "static/js/3.b9825dcd.chunk.js.map": "/Amazon-App/static/js/3.b9825dcd.chunk.js.map",
-    "index.html": "/Amazon-App/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Amazon-App/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.58aad851.chunk.js.LICENSE.txt": "/Amazon-App/static/js/2.58aad851.chunk.js.LICENSE.txt"
+    "main.css": "/Amazon-Practice/static/css/main.a617e044.chunk.css",
+    "main.js": "/Amazon-Practice/static/js/main.614f4135.chunk.js",
+    "main.js.map": "/Amazon-Practice/static/js/main.614f4135.chunk.js.map",
+    "runtime-main.js": "/Amazon-Practice/static/js/runtime-main.382d15a6.js",
+    "runtime-main.js.map": "/Amazon-Practice/static/js/runtime-main.382d15a6.js.map",
+    "static/js/2.58aad851.chunk.js": "/Amazon-Practice/static/js/2.58aad851.chunk.js",
+    "static/js/2.58aad851.chunk.js.map": "/Amazon-Practice/static/js/2.58aad851.chunk.js.map",
+    "static/js/3.b9825dcd.chunk.js": "/Amazon-Practice/static/js/3.b9825dcd.chunk.js",
+    "static/js/3.b9825dcd.chunk.js.map": "/Amazon-Practice/static/js/3.b9825dcd.chunk.js.map",
+    "index.html": "/Amazon-Practice/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Amazon-Practice/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.58aad851.chunk.js.LICENSE.txt": "/Amazon-Practice/static/js/2.58aad851.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f79fefe4.js",
+    "static/js/runtime-main.382d15a6.js",
     "static/js/2.58aad851.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.614f4135.chunk.js"
