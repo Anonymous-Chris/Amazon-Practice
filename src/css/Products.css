@@ -33,4 +33,7 @@
 
 .product > button {
   background: orange;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10px;
 }

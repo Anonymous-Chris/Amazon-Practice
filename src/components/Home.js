@@ -24,8 +24,8 @@ function Home() {
         />
 
         <Products
-          id={1}
-          price={11}
+          id={2}
+          price={12}
           rating={4}
           image={
             "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/2020/Other/TWAR_2021_UPDATED_1500x600_GlowChrisSoloNoGun_TH_Post_1PV_en-US_ARSDE_1Movie._CB664039800_.jpg"
@@ -36,8 +36,8 @@ function Home() {
 
       <div className="home__row">
         <Products
-          id={1}
-          price={11}
+          id={3}
+          price={13}
           rating={4}
           image={
             "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/2020/Other/TWAR_2021_UPDATED_1500x600_GlowChrisSoloNoGun_TH_Post_1PV_en-US_ARSDE_1Movie._CB664039800_.jpg"
@@ -46,9 +46,9 @@ function Home() {
         />
 
         <Products
-          id={1}
-          price={11}
-          rating={4}
+          id={4}
+          price={111}
+          rating={5}
           image={
             "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/2020/Other/TWAR_2021_UPDATED_1500x600_GlowChrisSoloNoGun_TH_Post_1PV_en-US_ARSDE_1Movie._CB664039800_.jpg"
           }
@@ -56,9 +56,9 @@ function Home() {
         />
 
         <Products
-          id={1}
-          price={11}
-          rating={4}
+          id={5}
+          price={10.58}
+          rating={2}
           image={
             "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/2020/Other/TWAR_2021_UPDATED_1500x600_GlowChrisSoloNoGun_TH_Post_1PV_en-US_ARSDE_1Movie._CB664039800_.jpg"
           }
