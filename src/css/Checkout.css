@@ -1,0 +1,23 @@
+.checkout {
+  margin: auto;
+  width: 100%;
+  display: flex;
+}
+.checkout__ad {
+  width: 100%;
+  margin-bottom: 10px;
+  object-fit: contain;
+  margin: auto;
+}
+
+.checkout__productLeft {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+}
+
+.checkout__productRight {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+}
