@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/amazonpractice/static/css/main.f2ff680c.chunk.css",
-    "main.js": "/amazonpractice/static/js/main.ba9fdfa2.chunk.js",
-    "main.js.map": "/amazonpractice/static/js/main.ba9fdfa2.chunk.js.map",
+    "main.js": "/amazonpractice/static/js/main.c3c9f72a.chunk.js",
+    "main.js.map": "/amazonpractice/static/js/main.c3c9f72a.chunk.js.map",
     "runtime-main.js": "/amazonpractice/static/js/runtime-main.937d6b19.js",
     "runtime-main.js.map": "/amazonpractice/static/js/runtime-main.937d6b19.js.map",
     "static/js/2.2ba61a24.chunk.js": "/amazonpractice/static/js/2.2ba61a24.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.937d6b19.js",
     "static/js/2.2ba61a24.chunk.js",
     "static/css/main.f2ff680c.chunk.css",
-    "static/js/main.ba9fdfa2.chunk.js"
+    "static/js/main.c3c9f72a.chunk.js"
   ]
 }
