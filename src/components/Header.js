@@ -14,7 +14,7 @@ function Header() {
   console.log(basket);
   return (
     <nav className="header">
-      <Link to="/">
+      <Link to="/amazonpractice/">
         <img
           className="header__logo"
           src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
@@ -28,28 +28,28 @@ function Header() {
       </div>
 
       <div className="header__nav">
-        <Link to="/login" className="header__link">
+        <Link to="/amazonpractice/login" className="header__link">
           <div className="header__option">
             <span className="header__optionLine1">Hello chris</span>
             <span className="header__optionLine2">Sign in</span>
           </div>
         </Link>
 
-        <Link to="/login" className="header__link">
+        <Link to="/amazonpractice/login" className="header__link">
           <div className="header__option">
             <span className="header__optionLine1">Returns</span>
             <span className="header__optionLine2"> & Orders</span>
           </div>
         </Link>
 
-        <Link to="/login" className="header__link">
+        <Link to="/amazonpractice/login" className="header__link">
           <div className="header__option">
             <span className="header__optionLine1">Your</span>
             <span className="header__optionLine2">Prime</span>
           </div>
         </Link>
 
-        <Link to="/checkout">
+        <Link to="/amazonpractice/checkout">
           <div className="header__optionBasket ">
             <ShoppingBasketIcon />{" "}
             <span className="header__basketCount">{basket?.length}</span>

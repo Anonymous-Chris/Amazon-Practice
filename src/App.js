@@ -9,16 +9,16 @@ function App() {
     <Router>
       <div className="app">
         <Switch>
-          <Route path="/checkout">
+          <Route path="/amazonpractice/checkout">
             <Header />
 
             <Checkout />
           </Route>
-          <Route path="/login">
+          <Route path="/amazonpractice/login">
             <Header />
             <Login />
           </Route>
-          <Route path="/">
+          <Route path="/amazonpractice/">
             <Header />
             <Home />
           </Route>
