@@ -5,13 +5,13 @@ import CheckoutProduct from "./CheckoutProduct";
 import Subtotal from "./Subtotal";
 
 function Checkout() {
-  const [{ basket }, dispatch] = useStateValue(); //destructuring
+  const [{ basket }] = useStateValue(); //destructuring
 
   return (
     <div className="checkout">
       <div className="checkout__productLeft">
         <img
-          className="checkout__ad"
+          className="checkout__ad" alt="ad"
           src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/styles/simple_image/public/images/beginners-guide-to-advertising-on-amazon-self-serve-ads.png?f3SD7ecQrPll05RgyCiBDBXycVk69htb&itok=4uzEUbji"
         />
 

@@ -9,7 +9,7 @@ function Header() {
   // const [state, dispatch] = useStateValue();
   //  console.log(state);
   // here state ==> {basket: Array(0)}
-  const [{ basket }, dispatch] = useStateValue(); //destructuring
+  const [{ basket }] = useStateValue(); //destructuring
 
   console.log(basket);
   return (
